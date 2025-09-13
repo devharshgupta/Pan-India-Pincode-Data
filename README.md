@@ -1,6 +1,8 @@
-
-
 # 📍 Pan-India Pincode Boundary GeoJSON Data
+
+> 📦 **Looking for the data?**  
+> Download the latest `india_pincode_boundaries.geojson` from the  
+> 👉 [**Releases Page**](https://github.com/devharshgupta/Pan-India-Pincode-Data/releases/)
 
 This repository provides **GeoJSON data of pincode boundaries across India**, compiled for open-source projects, personal use, and research purposes.
 
@@ -36,4 +38,3 @@ Boundary data may not be 100% accurate or in sync with official India Post or go
 ## 🙌 Contributions
 
 Got updated or more accurate boundary data? PRs are welcome!
-
